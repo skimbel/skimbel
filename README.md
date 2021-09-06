@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skimbel
-- 👀 I’m interested in hybris cloud
-- 🌱 I’m currently learning Advanced AWS certs
+- 👀 I’m interested in hybrid cloud
+- 🌱 I’m currently building a hybrid cloud to host enterprise workloads, currently we have SAP hana and Splunk
 - 💞️ I’m looking to collaborate on all things cloud
 - 📫 How to reach me skimbel@deloitte.com
 
